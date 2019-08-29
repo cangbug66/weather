@@ -1,5 +1,5 @@
 {
-    "name": "createdBug/weather",
+    "name": "createdbug/weather",
     "autoload": {
         "psr-4": {
             "CreatedBug\\Weather\\": "src"
