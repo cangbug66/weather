@@ -1,0 +1,13 @@
+{
+    "name": "createdBug/weather",
+    "autoload": {
+        "psr-4": {
+            "CreatedBug\\Weather\\": "src"
+        }
+    },
+    "require": {
+        "phpunit/phpunit": "^7.5",
+        "mockery/mockery": "^1.2",
+        "guzzlehttp/guzzle": "^6.3"
+    }
+}
