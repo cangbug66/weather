@@ -2,6 +2,7 @@
 
 <p align="center"> A weather 练习.</p>
 
+[![Build Status](https://travis-ci.org/cangbug66/weather.svg?branch=master)](https://travis-ci.org/cangbug66/weather)
 
 ## Installing
 
