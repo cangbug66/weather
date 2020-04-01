@@ -1,6 +1,6 @@
 <h1 align="center"> weather </h1>
 
-<p align="center"> A weather 练习.</p>
+<p align="center"> A weather 练习 不可用于生产 .</p>
 
 [![Build Status](https://travis-ci.org/cangbug66/weather.svg?branch=master)](https://travis-ci.org/cangbug66/weather)
 
